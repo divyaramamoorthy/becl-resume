@@ -30,7 +30,7 @@ Tables are a powerful way to organize your resume, and Microsoft software makes
 it easy to customize your table structure.
 
 Word:
-<img src="resume_word_side.png"
+<img src="figs/resume_word_side.png"
      style="float: left; margin-right: 10px;" />
 
 Tables are used to set up the word document, with each row indicating a
@@ -38,7 +38,7 @@ information block. Table lines can be adjusted depending on desired margins by
 clicking and dragging the gridline.
 
 Excel:
-<img src="excel_grid.png"
+<img src="figs/excel_grid.png"
      style="float: left; margin-right: 10px;" />
 
 Rows in excel are used to evenly space content, while allowing one to place
