@@ -1,10 +1,10 @@
 #  Resumes and CVs in Word, Excel, and LateX
 *Compiled by*
-Divya Ramamoorthy
+Divya Ramamoorthy, Alexander Triassi
 
 *Support by*
-Prerna Bhargava, Kyle McLean, Josh Peters, George Sun, Tyler Toth,
-Alexander Triassi
+Kyle McLean, Josh Peters, George Sun, Tyler Toth, Prerna Bhargava
+
 
 **Last Updated: 6 December 2018**
 
